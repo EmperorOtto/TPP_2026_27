@@ -1,0 +1,14 @@
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\bin\Debug\net10.0\Banking_App.exe
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\bin\Debug\net10.0\Banking_App.deps.json
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\bin\Debug\net10.0\Banking_App.runtimeconfig.json
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\bin\Debug\net10.0\Banking_App.dll
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\bin\Debug\net10.0\Banking_App.pdb
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\obj\Debug\net10.0\Banking_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\obj\Debug\net10.0\Banking_App.AssemblyInfoInputs.cache
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\obj\Debug\net10.0\Banking_App.AssemblyInfo.cs
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\obj\Debug\net10.0\Banking_App.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\obj\Debug\net10.0\Banking_App.dll
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\obj\Debug\net10.0\refint\Banking_App.dll
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\obj\Debug\net10.0\Banking_App.pdb
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\obj\Debug\net10.0\Banking_App.genruntimeconfig.cache
+C:\Users\Felix\Desktop\Работы\VSprojects\Banking_App\obj\Debug\net10.0\ref\Banking_App.dll

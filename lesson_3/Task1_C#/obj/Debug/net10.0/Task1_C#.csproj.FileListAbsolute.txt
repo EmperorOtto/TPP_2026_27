@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\bin\Debug\net10.0\Task1_C#.exe
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\bin\Debug\net10.0\Task1_C#.deps.json
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\bin\Debug\net10.0\Task1_C#.runtimeconfig.json
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\bin\Debug\net10.0\Task1_C#.dll
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\bin\Debug\net10.0\Task1_C#.pdb
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\obj\Debug\net10.0\Task1_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\obj\Debug\net10.0\Task1_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\obj\Debug\net10.0\Task1_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\obj\Debug\net10.0\Task1_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\obj\Debug\net10.0\Task1_C#.dll
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\obj\Debug\net10.0\refint\Task1_C#.dll
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\obj\Debug\net10.0\Task1_C#.pdb
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\obj\Debug\net10.0\Task1_C#.genruntimeconfig.cache
+C:\Users\user\Desktop\Учёба\VS\Task1_C#\obj\Debug\net10.0\ref\Task1_C#.dll

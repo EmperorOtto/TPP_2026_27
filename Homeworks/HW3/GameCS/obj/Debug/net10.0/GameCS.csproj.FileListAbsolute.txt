@@ -1,0 +1,14 @@
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\obj\Debug\net10.0\GameCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\obj\Debug\net10.0\GameCS.AssemblyInfoInputs.cache
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\obj\Debug\net10.0\GameCS.AssemblyInfo.cs
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\obj\Debug\net10.0\GameCS.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\bin\Debug\net10.0\GameCS.exe
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\bin\Debug\net10.0\GameCS.deps.json
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\bin\Debug\net10.0\GameCS.runtimeconfig.json
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\bin\Debug\net10.0\GameCS.dll
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\bin\Debug\net10.0\GameCS.pdb
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\obj\Debug\net10.0\GameCS.dll
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\obj\Debug\net10.0\refint\GameCS.dll
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\obj\Debug\net10.0\GameCS.pdb
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\obj\Debug\net10.0\GameCS.genruntimeconfig.cache
+C:\Users\Felix\Desktop\Работы\VSprojects\GameCs\obj\Debug\net10.0\ref\GameCS.dll

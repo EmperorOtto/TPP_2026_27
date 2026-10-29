@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felix\\Desktop\\Работы\\VSprojects\\GameCs\\GameCS.csproj": {}
+    "C:\\Users\\user\\Desktop\\Учёба\\VS\\GameCS\\GameCS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felix\\Desktop\\Работы\\VSprojects\\GameCs\\GameCS.csproj": {
+    "C:\\Users\\user\\Desktop\\Учёба\\VS\\GameCS\\GameCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felix\\Desktop\\Работы\\VSprojects\\GameCs\\GameCS.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Учёба\\VS\\GameCS\\GameCS.csproj",
         "projectName": "GameCS",
-        "projectPath": "C:\\Users\\Felix\\Desktop\\Работы\\VSprojects\\GameCs\\GameCS.csproj",
-        "packagesPath": "C:\\Users\\Felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felix\\Desktop\\Работы\\VSprojects\\GameCs\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Учёба\\VS\\GameCS\\GameCS.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Учёба\\VS\\GameCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

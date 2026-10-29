@@ -43,13 +43,18 @@ class Character
         target.TakeDamage(power);
         System.Console.WriteLine($"{name} наносит {power} ед. урона {target.name}\n");
     }
-    public void GetStatus()
+    public override string ToString()
     {
-        System.Console.WriteLine($"*Имя персонажа: {name} \n*Здоровье персонажа: {hp}hp\n");
+        return $"*{Name}: {Hp} HP.*\n";
     }
     public void TakeDamage(int damage)
     {
-        this.hp -= damage;
+        if (this.hp < damage)
+        {
+            this.hp = 0;
+        }else{this.hp -= damage;}
+        
+
     }
     public bool IsAlive()
     {
@@ -90,22 +95,31 @@ internal class Program
 {
     static void Main()
     {
-    Character Igrok = new Player("fijoahfkha", 100, 15);
-    Character Scherbina = new Enemy("Scherbina", 100, 5);
-    Character.HowMany();
-    while(Igrok.IsAlive() && Scherbina.IsAlive()) {
-        Igrok.Attack(Scherbina);
-        Scherbina.GetStatus();
-        if(Scherbina.IsAlive())
+        List<Character> entities = new List<Character>();
+        System.Console.Write("Имя игрока: ");
+        string nameOfPlayer = Console.ReadLine();
+        while(nameOfPlayer=="")
         {
-            Scherbina.Attack(Igrok);
-        }else {break;}
-        Igrok.GetStatus();
+            System.Console.Write("Имя пустое, введите имя еще раз: ");
+            nameOfPlayer = Console.ReadLine();
+        }
+        Character Igrok = new Player(nameOfPlayer, 100, 15);
+        Character Scherbina = new Enemy("Scherbina", 100, 5);
+        entities.Add(Igrok,Scherbina);
+        Character.HowMany();
+        System.Console.WriteLine("\nБой начинается!\n");
+        while(Igrok.IsAlive() && Scherbina.IsAlive()) {
+            Igrok.Attack(Scherbina);
+            System.Console.WriteLine(Scherbina.ToString());
+            if(Scherbina.IsAlive())
+            {
+                Scherbina.Attack(Igrok);
+            }else {break;}
+            System.Console.WriteLine(Igrok.ToString());
+            }
+                if (Igrok.IsAlive())
+            {
+                System.Console.WriteLine($"Игрок {nameOfPlayer} победил! Щербина вынужден простить долги");
+            }else{System.Console.WriteLine($"Игрок {nameOfPlayer} повержен, + 10 долгов");} 
     }
-        if (Igrok.IsAlive())
-        {
-            System.Console.WriteLine("Игрок победил! Щербина вынужден простить долги");
-        }else{System.Console.WriteLine("Игрок повержен, + 10 долгов");} 
-    }
-    
 } 
